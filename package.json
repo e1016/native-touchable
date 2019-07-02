@@ -1,0 +1,11 @@
+{
+  "name": "native-touchable",
+  "version": "1.0.0",
+  "description": "React Native Touchable with native feel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliseo Geraldo <e10169610@gmail.com>",
+  "license": "MIT"
+}
