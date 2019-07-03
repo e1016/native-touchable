@@ -28,7 +28,7 @@ render () {
 
 # props
 
-This component inherits from `TouchableOpacity` and can use all [his props](https://facebook.github.io/react-native/docs/touchableopacity#props) (`onPress`, `onPressIn`, `activeOpacity`, etc.), btw can use all props from [@n4kz/react-native-material-ripple](https://github.com/n4kz/react-native-material-ripple) too. But I decide to rename props just for confortability.
+This component inherits from `TouchableOpacity` and can use all [his props](https://facebook.github.io/react-native/docs/touchableopacity#props) (`onPress`, `onPressIn`, `activeOpacity`, etc.), btw can use all props from [@n4kz/react-native-material-ripple](https://github.com/n4kz/react-native-material-ripple) too. But I decide to rename some props just for confortability.
 
 | prop     | type    | default                                       | description                                 |
 |----------|---------|-----------------------------------------------|---------------------------------------------|
