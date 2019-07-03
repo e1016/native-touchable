@@ -24,7 +24,7 @@ const Touchable = props => (Platform.OS === 'android' || props.waves) ? (
   </RippleTouchable>
 ) : (
   // iOS implements
-  <TouchableOpacity activeOpacity={ 0.7 } { ...props }>
+  <TouchableOpacity activeOpacity={ 0.8 } { ...props }>
     { props.children }
   </TouchableOpacity>
 )
